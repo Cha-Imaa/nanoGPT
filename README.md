@@ -1,4 +1,4 @@
-
+Hello! Just learning Git ^^
 # nanoGPT
 
 ![nanoGPT](assets/nanogpt.jpg)
